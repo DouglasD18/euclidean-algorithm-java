@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author douglas
- *
- */
-module EuclideanAlgorithm {
-}
